@@ -1,20 +1,10 @@
-erekle kilasonia
-DATA DIASAMIDZE
-TOMA3424
-ANDRIA
-ლაშა აბესლამიძე 
-teimuraz guguva 
-nikolozi asanidze
-lazare chikovani
-giorgi jinjolia 
-giorgi niniashvili
-iliavardanidze
-giorgi pavilashvili
-mariam gugeshvili
-achi ghambashidze
-aleksandre ghomidze
-gigi zimeridze
-dachi chapichadze
-dachi naveriani
-giorgi cuxo
-giorgi gvalia
+sasmelebi(wyali)
+satamasho(mancana)
+skolis_sagnebi(matematika)
+brendebi(apple)
+tansacmelebi(kaba)
+personajebi(arieli)
+yvavilebi(tita)
+wignebi(kapitani triko)
+wignebis gamomceloba(sulakauri)
+robotikis centrebi(goa orienti academi)
